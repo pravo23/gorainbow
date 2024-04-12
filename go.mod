@@ -1,4 +1,4 @@
-module pravo23/lolcat
+module pravo23/gorainbow
 
 go 1.20
 
